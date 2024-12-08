@@ -3,30 +3,30 @@
         "name": "sleve",
         "size": ["s", "m", "l", "xl"],
         "color": "black",
-        "image": "edit/sleeve black.JPG"
+        "image": "https://raw.githubusercontent.com/Pointer-Fashion/json_sample/main/edit/sleeve%20black.JPG"
     },
     {
         "name": "sleve",
         "size": ["s", "m", "l", "xl"],
         "color": "dark blue",
-        "image": "edit/sleeve darkblue.JPG"
+        "image": "https://raw.githubusercontent.com/Pointer-Fashion/json_sample/main/edit/sleeve%20darkblue.JPG"
     },
     {
         "name": "sleve",
         "size": ["s", "m", "l", "xl"],
         "color": "gray",
-        "image": "edit/sleeve gray.JPG"
+        "image": "https://raw.githubusercontent.com/Pointer-Fashion/json_sample/main/edit/sleeve%20gray.JPG"
     },
     {
         "name": "sleve",
         "size": ["s", "m", "l", "xl"],
         "color": "lightblue",
-        "image": "edit/sleeve lightblue.JPG"
+        "image": "https://raw.githubusercontent.com/Pointer-Fashion/json_sample/main/edit/sleeve%20lightblue.JPG"
     },
     {
         "name": "sleve",
         "size": ["s", "m", "l", "xl"],
         "color": "mixpink",
-        "image": "edit/sleeve mixpink.JPG"
+        "image": "https://raw.githubusercontent.com/Pointer-Fashion/json_sample/main/edit/sleeve%20mixpink.JPG"
     }
 ]
